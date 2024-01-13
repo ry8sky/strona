@@ -1,1 +1,0 @@
-odNOWA działamy
