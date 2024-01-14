@@ -4,3 +4,23 @@
     margin-right: auto;
     width: 50%;
 }
+.button1 {
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    font-size: 40px;
+}
+.button2 {
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    font-size: 40px;
+}
+.container{
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+}
